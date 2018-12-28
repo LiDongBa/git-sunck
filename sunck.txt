@@ -5,3 +5,5 @@ sunck is a good man !
 
 
 master branch
+
+lyx is a bad man
